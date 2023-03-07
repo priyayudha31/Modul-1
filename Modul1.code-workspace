@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/priya/OneDrive/Documents/Semester4/Struktur data/Modul1/Modul1"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
